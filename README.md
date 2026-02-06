@@ -33,7 +33,7 @@ Or deploy to GitHub Pages for online access.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pdf-toolkit.git
+   git clone https://github.com/OAPraprara/pdf-toolkit.git
    ```
 
 2. Open `pdfToolv1.html` in your browser
@@ -82,3 +82,4 @@ Contributions are welcome! Feel free to:
 ---
 
 Made with ❤️ for the PDF editing community
+
