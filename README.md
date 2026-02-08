@@ -36,7 +36,7 @@ Or deploy to GitHub Pages for online access.
    git clone https://github.com/OAPraprara/pdf-toolkit.git
    ```
 
-2. Open `pdfToolv1.html` in your browser
+2. Open `[pdfToolv1.html](https://oapraprara.github.io/PrizzysPDFToolkit/)` in your browser
 
 3. That's it! No build steps, no dependencies to install.
 
@@ -82,4 +82,5 @@ Contributions are welcome! Feel free to:
 ---
 
 Made with ❤️ for the PDF editing community
+
 
